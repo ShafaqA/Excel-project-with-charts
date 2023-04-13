@@ -6,5 +6,8 @@ The client is colour blind and requested to bear this in mind when building dash
 
 The Data "Wealth of Nations" gives all information about different countries GDP,Life-expetency and Smartphone users details.
 
-Requirements: The client is colour blind and requested you to bear this in mind when building your dashboard. The client is only interested in the top 20 highest ranking countries. All of your visuals should be for the top 20 highest ranking countries.
+Requirements: The client is colour blind and requested to bear this in mind when building the dashboard.
+The client is only interested in the top 20 highest ranking countries data. So All the visuals are for the top 20 highest ranking countries.
+[final assignment submitted.odt](https://github.com/ShafaqA/Excel-project-with-charts/files/11226731/final.assignment.submitted.odt)
+
 
