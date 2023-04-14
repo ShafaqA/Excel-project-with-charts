@@ -1,4 +1,4 @@
-# Excel-project DATA VISUALISATION/DATA STORYTELLING using Excel and Tableu
+# DATA VISUALISATION/DATA STORYTELLING using EXCEL & TABLEU
 Aim: To analyze the Data of different Nations and getting trends in the form of visuals and maps using Tableu and Excel.
  I created a visual report that will show the data in the form of charts and maps using Tableau.
 
